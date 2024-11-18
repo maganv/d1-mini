@@ -1,4 +1,4 @@
-# Stuff for WeMos/LOLIN, D1 mini
+# Stuff for WeMos/LOLIN, D1 mini wifi microcontroller and SHT-30 digital temperature and humidity sensor shield
 
 ## Software
 1. Download [IDE](https://www.arduino.cc/en/software)
@@ -7,7 +7,9 @@
 4. Compile and upload the blink sketch
 
 Other links:\
-[Latest documentation](https://arduino-esp8266.readthedocs.io/en/latest/)
+[Latest esp8266 documentation](https://arduino-esp8266.readthedocs.io/en/latest/)\
+[D1 mini microcontroller](https://www.wemos.cc/en/latest/d1/d1_mini.html)\
+[SHT30 digital temperature and humidity sensor shield](https://www.wemos.cc/en/latest/d1_mini_shield/sht30.html)
 
 ## Hardware
 ### D1 mini microcontroller
